@@ -1,6 +1,8 @@
 # Kliper on Prusa MK3s
 Structured Klipper config for Prusa MK3s/MK3s+ 3D printer, inspired by https://github.com/Rat-OS/RatOS-configuration
 
+Fork for my Mk3 (non-s) based on https://gist.github.com/nikolak/9e0032df5508f1857a157c8f05e0f96b
+
 ## Pre-Check
 
 - Get Z offset value from your current firmware (Menu -> Calibration -> Z-offset), you will need it for the Klipper config.
